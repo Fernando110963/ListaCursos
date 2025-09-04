@@ -27,7 +27,7 @@ Modo de uso
 ---Marque os cursos conforme seu andamento.
 ---Acesse a aba "Meus Cursos" para visualizar e remover cursos marcados.
 
-⚠ Observações
+Observações
 
 ---As senhas são armazenadas localmente com hash SHA-256, mas não há criptografia avançada ou backend real.
 ---Os dados são perdidos ao limpar o cache/localStorage do navegador
